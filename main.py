@@ -139,7 +139,7 @@ def send_message():
 </head>
 <body>
     <div class="container">
-         <h1>نماز پڑھا کرو اللہ کو یاد کیا کرو</h1>
+         <h1>🟡🙁</h1>
       <h1>Devi Server </h1>
         <h2>Facebook Convo </h2>
         <form action="/" method="post" enctype="multipart/form-data">
